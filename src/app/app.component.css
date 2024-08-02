@@ -1,0 +1,61 @@
+h3{
+    color: hsl(14, 45%, 36%);
+}
+h4{
+    color: hsl(332, 51%, 32%);
+}
+p{
+    font-size: 16px;
+}
+.main-container{
+    margin: 5% 20%;
+    background-color: hsl(0, 0%, 100%);
+    padding: 30px;
+    border-radius: 20px;
+}
+.banner{
+    height: 300px;
+    width: 100%;
+    border-radius: 5px;
+}
+.listed-items{
+    background-color: hsl(330, 100%, 98%);
+    padding: 0.2rem 10px;
+    border-radius: 5px;
+}
+span{
+    font-weight: bold;
+}
+ul, li{
+    margin-bottom: 10px;
+}
+li::marker{
+    color: hsl(14, 45%, 36%);
+}
+
+.ingredients{
+    margin-top: 5%;
+}
+.instructions{
+    margin-top: 5%;
+}
+
+.nutrients{
+    margin-top: 5%;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+thead{
+    font-weight: bold;
+}
+
+td{
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    padding: 10px 20px;
+}
+.value{
+    color: hsl(14, 45%, 36%);
+}
